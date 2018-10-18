@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_trending"
+        android:icon="@drawable/baseline_trending_up_black_48"
+        android:title="@string/trending" />
+
+    <item
+        android:id="@+id/nav_petitions"
+        android:icon="@drawable/baseline_account_balance_black_48"
+        android:title="@string/petition" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person_black_48dp"
+        android:title="@string/profile" />
+
+
+
+</menu>
